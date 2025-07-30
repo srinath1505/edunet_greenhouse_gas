@@ -69,7 +69,7 @@ The application helps businesses, researchers, and policymakers estimate their s
 ## 📚 Project Structure
 
 ```
-supply-chain-emission-predictor/
+edunet_greenhouse_gas/
 ├── data/                       # Dataset files
 │   └── SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx
 ├── models/                     # Trained model files
