@@ -77,7 +77,7 @@ supply-chain-emission-predictor/
 │   ├── preprocessor.pkl
 │   └── ...
 ├── app.py                      # Main Streamlit app
-├── train_models.py             # Model training script
+├── final_GHG.py                # Final Model training script
 ├── requirements.txt            # Project dependencies
 └── README.md                   # This file
 ```
