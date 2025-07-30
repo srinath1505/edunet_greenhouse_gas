@@ -80,7 +80,7 @@ edunet_greenhouse_gas/
 ├── Supply_Chain_Emission_Analysis.ipynb                           # basic analysis of dataset
 ├── updated_greenhouse_gas_emission_week2.ipynb                    # week 2 submission
 ├── week1_submissinn.md                                            # week 1 markdown
-├── final_GHG.py                              (Final program)      # Final Model training script
+├── final_GHG.ipynb                           (Final program)      # Final Model training script
 ├── requirements.txt                                               # Project dependencies
 └── README.md                                                      # This file
 ```
