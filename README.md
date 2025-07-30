@@ -70,19 +70,19 @@ The application helps businesses, researchers, and policymakers estimate their s
 
 ```
 edunet_greenhouse_gas/
-├── data/                       # Dataset files
+├── data/                                                          # Dataset files
 │   └── SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx
-├── models/                     # Trained model files
+├── models/                                                        # Trained model files
 │   ├── xgboost_model.pkl
 │   ├── preprocessor.pkl
 │   └── ...
-├── app.py                      # Main Streamlit app
-├── Supply_Chain_Emission_Analysis.ipynb                # basic analysis of dataset
-├── updated_greenhouse_gas_emission_week2.ipynb                # week 2 submission
-├── week1_submissinn.md         # week 1 markdown
-├── final_GHG.py                # Final Model training script
-├── requirements.txt            # Project dependencies
-└── README.md                   # This file
+├── app.py                                                         # Main Streamlit app
+├── Supply_Chain_Emission_Analysis.ipynb                           # basic analysis of dataset
+├── updated_greenhouse_gas_emission_week2.ipynb                    # week 2 submission
+├── week1_submissinn.md                                            # week 1 markdown
+├── final_GHG.py                              (Final program)      # Final Model training script
+├── requirements.txt                                               # Project dependencies
+└── README.md                                                      # This file
 ```
 
 ## 🧪 Model Performance
