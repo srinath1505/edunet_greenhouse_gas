@@ -77,6 +77,9 @@ edunet_greenhouse_gas/
 │   ├── preprocessor.pkl
 │   └── ...
 ├── app.py                      # Main Streamlit app
+├── Supply_Chain_Emission_Analysis.ipynb                # basic analysis of dataset
+├── updated_greenhouse_gas_emission_week2.ipynb                # week 2 submission
+├── week1_submissinn.md         # week 1 markdown
 ├── final_GHG.py                # Final Model training script
 ├── requirements.txt            # Project dependencies
 └── README.md                   # This file
